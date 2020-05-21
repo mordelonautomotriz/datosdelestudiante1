@@ -62,10 +62,10 @@ public class DatosDelEstudiante {
         System.out.println("ingrese el sexo: ");
         String sexo=objeto.nextLine();
         
-        System.out.println("bienvenido ala universidad: " +nombreUniversidad);
+        
         
        
-        
+       
     }
     
 }
