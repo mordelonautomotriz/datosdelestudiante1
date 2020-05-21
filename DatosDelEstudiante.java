@@ -65,7 +65,7 @@ public class DatosDelEstudiante {
         System.out.println("bienvenido ala universidad: " +nombreUniversidad);
         
        
-        System.out.println("este es su primer programa en netbeens");
+        
     }
     
 }
